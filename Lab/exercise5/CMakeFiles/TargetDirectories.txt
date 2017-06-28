@@ -1,8 +1,0 @@
-/home/saadhana/Semester2/Lab/exercise5/CMakeFiles/edit_cache.dir
-/home/saadhana/Semester2/Lab/exercise5/CMakeFiles/rebuild_cache.dir
-/home/saadhana/Semester2/Lab/exercise5/Exercise05_1/CMakeFiles/rebuild_cache.dir
-/home/saadhana/Semester2/Lab/exercise5/Exercise05_1/CMakeFiles/edit_cache.dir
-/home/saadhana/Semester2/Lab/exercise5/Exercise05_1/CMakeFiles/Exercise05_1.dir
-/home/saadhana/Semester2/Lab/exercise5/Exercise05_2/CMakeFiles/edit_cache.dir
-/home/saadhana/Semester2/Lab/exercise5/Exercise05_2/CMakeFiles/rebuild_cache.dir
-/home/saadhana/Semester2/Lab/exercise5/Exercise05_2/CMakeFiles/Exercise05_2.dir
