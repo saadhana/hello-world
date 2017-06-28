@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/saadhana/Semester2/Lab/exercise6/Exercise06_1",
+  "command": "/usr/bin/g++   -DDISABLE_DAVIDSDK -DDISABLE_DSSDK -DDISABLE_ENSENSO -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DDISABLE_RSSDK -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DFLANN_STATIC -DPROJECT_SOURCE_DIR=\\\"/home/saadhana/Semester2/Lab/exercise6\\\" -Dqh_QHpointer -I/usr/local/include/opencv -I/usr/local/include -I/usr/include/eigen3 -I/usr/include/vtk-5.10 -I/usr/include/pcl-1.8 -I/usr/include/ni -I/usr/include/openni2 -I/home/saadhana/Semester2/Lab/exercise6/TSDFLib    -Wno-deprecated -g3 -gdwarf-2   -std=c++11 -o CMakeFiles/Exercise06_1.dir/main.cpp.o -c /home/saadhana/Semester2/Lab/exercise6/Exercise06_1/main.cpp",
+  "file": "/home/saadhana/Semester2/Lab/exercise6/Exercise06_1/main.cpp"
+},
+{
+  "directory": "/home/saadhana/Semester2/Lab/exercise6/Exercise06_2",
+  "command": "/usr/bin/g++   -DDISABLE_DAVIDSDK -DDISABLE_DSSDK -DDISABLE_ENSENSO -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DDISABLE_RSSDK -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DFLANN_STATIC -DPROJECT_SOURCE_DIR=\\\"/home/saadhana/Semester2/Lab/exercise6\\\" -Dqh_QHpointer -I/usr/local/include/opencv -I/usr/local/include -I/usr/include/eigen3 -I/usr/include/vtk-5.10 -I/usr/include/pcl-1.8 -I/usr/include/ni -I/usr/include/openni2 -I/home/saadhana/Semester2/Lab/exercise6/TSDFLib    -Wno-deprecated -g3 -gdwarf-2   -std=c++11 -o CMakeFiles/Exercise06_2.dir/main.cpp.o -c /home/saadhana/Semester2/Lab/exercise6/Exercise06_2/main.cpp",
+  "file": "/home/saadhana/Semester2/Lab/exercise6/Exercise06_2/main.cpp"
+},
+{
+  "directory": "/home/saadhana/Semester2/Lab/exercise6/Exercise06_3",
+  "command": "/usr/bin/g++   -DDISABLE_DAVIDSDK -DDISABLE_DSSDK -DDISABLE_ENSENSO -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DDISABLE_RSSDK -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DFLANN_STATIC -DPROJECT_SOURCE_DIR=\\\"/home/saadhana/Semester2/Lab/exercise6\\\" -Dqh_QHpointer -I/usr/local/include/opencv -I/usr/local/include -I/usr/include/eigen3 -I/usr/include/vtk-5.10 -I/usr/include/pcl-1.8 -I/usr/include/ni -I/usr/include/openni2 -I/home/saadhana/Semester2/Lab/exercise6/TSDFLib    -Wno-deprecated -g3 -gdwarf-2   -std=c++11 -o CMakeFiles/Exercise06_3.dir/main.cpp.o -c /home/saadhana/Semester2/Lab/exercise6/Exercise06_3/main.cpp",
+  "file": "/home/saadhana/Semester2/Lab/exercise6/Exercise06_3/main.cpp"
+}
+]

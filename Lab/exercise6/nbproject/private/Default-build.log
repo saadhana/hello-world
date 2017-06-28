@@ -1,0 +1,29 @@
+[ 16%] Building CXX object Exercise06_1/CMakeFiles/Exercise06_1.dir/main.cpp.o
+[ 33%] Linking CXX executable ../bin/Exercise06_1
+[ 33%] Built target Exercise06_1
+[ 50%] Building CXX object Exercise06_2/CMakeFiles/Exercise06_2.dir/main.cpp.o
+In file included from /usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0,
+                 from /usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45,
+                 from /usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44,
+                 from /usr/include/pcl-1.8/pcl/registration/icp.h:45,
+                 from /home/saadhana/Semester2/Lab/exercise6/Exercise06_2/main.cpp:8:
+/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h: In function ‘void __static_initialization_and_destruction_0(int, int)’:
+/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3: warning: ‘pcl::SAC_SAMPLE_SIZE’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [-Wdeprecated-declarations]
+   SAC_SAMPLE_SIZE (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   ^
+/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3: note: declared here
+[ 66%] Linking CXX executable ../bin/Exercise06_2
+[ 66%] Built target Exercise06_2
+[ 83%] Building CXX object Exercise06_3/CMakeFiles/Exercise06_3.dir/main.cpp.o
+In file included from /usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0,
+                 from /usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45,
+                 from /usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44,
+                 from /usr/include/pcl-1.8/pcl/registration/icp.h:45,
+                 from /home/saadhana/Semester2/Lab/exercise6/Exercise06_3/main.cpp:7:
+/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h: In function ‘void __static_initialization_and_destruction_0(int, int)’:
+/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3: warning: ‘pcl::SAC_SAMPLE_SIZE’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [-Wdeprecated-declarations]
+   SAC_SAMPLE_SIZE (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   ^
+/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3: note: declared here
+[100%] Linking CXX executable ../bin/Exercise06_3
+[100%] Built target Exercise06_3

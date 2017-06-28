@@ -1,0 +1,16 @@
+Scanning dependencies of target Exercise05_1
+[ 25%] Building CXX object Exercise05_1/CMakeFiles/Exercise05_1.dir/main.cpp.o
+[ 50%] Linking CXX executable ../bin/Exercise05_1
+[ 50%] Built target Exercise05_1
+Scanning dependencies of target Exercise05_2
+[ 75%] Building CXX object Exercise05_2/CMakeFiles/Exercise05_2.dir/main.cpp.o
+/home/saadhana/Semester2/Lab/exercise5/Exercise05_2/main.cpp:9:20: fatal error: OpenNI.h: No such file or directory
+ #include <OpenNI.h>
+                    ^
+compilation terminated.
+Exercise05_2/CMakeFiles/Exercise05_2.dir/build.make:62: recipe for target 'Exercise05_2/CMakeFiles/Exercise05_2.dir/main.cpp.o' failed
+make[2]: *** [Exercise05_2/CMakeFiles/Exercise05_2.dir/main.cpp.o] Error 1
+CMakeFiles/Makefile2:140: recipe for target 'Exercise05_2/CMakeFiles/Exercise05_2.dir/all' failed
+make[1]: *** [Exercise05_2/CMakeFiles/Exercise05_2.dir/all] Error 2
+Makefile:83: recipe for target 'all' failed
+make: *** [all] Error 2
